@@ -1,0 +1,18 @@
+grep "Сумма" 2022/buhgalteriya/schet_0001.txt
+ grep -r "Earl Grey"
+grep -r -i "earl grey"
+ grep -r -i -l "earl grey"
+ grep -ril "hint-1"
+
+ grep -r "hint-1" забыла добавить i
+grep -ri "hint-1"
+
+grep -ri "kladovshik"
+grep -i "code" 2025/buhgalteriya/otchet_0015.txt
+grep -i "code"
+grep -i "code" otchet_0015.txt
+grep -ri "code"
+
+
+
+
