@@ -1,0 +1,7 @@
+ touch commands.txt
+ bash create_passwords.sh
+cat passwords.txt
+echo "passwords.txt" > .gitignore
+
+git status
+git add .gitignore commands.txt
